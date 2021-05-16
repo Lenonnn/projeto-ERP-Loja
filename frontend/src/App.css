@@ -1,0 +1,10 @@
+:root {
+  --header-bg-color: linear-gradient(to right,  black,#fdb5ab );;
+  --menu-bg-color:#FFF5EE;
+  --body-bg-color: #e26a1b;
+  --title-bg-color:#8B4513;
+  --text-bg-color:#696969;
+  --price-bg-color: #FFB6C1;
+  --input-bg-color:#FFE4E1;
+
+}
